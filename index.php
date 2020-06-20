@@ -1,3 +1,3 @@
 <?php 
-echo "ci is up';
+echo "Server is up and running on CI/CD";
 ?>
